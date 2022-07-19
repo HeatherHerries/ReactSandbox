@@ -1,11 +1,15 @@
+import React, { Component } from "react";
+import Game from "./Game";
 import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>My React App</h1>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <Game />
+      </div>
+    );
+  }
 }
 
 export default App;
