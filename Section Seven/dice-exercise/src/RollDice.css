@@ -1,0 +1,28 @@
+.roll-dice {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.dice-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.roll-dice button {
+  align-self: center;
+  font-size: 25px;
+  margin: 15px;
+  padding: 0.5px 25px;
+  background-color: #abeb0a;
+  border-radius: 10px;
+  color: #db5461;
+  border: none;
+  box-shadow: 1px 1px 20px #abeb0a;
+}
+
+.roll-dice button:hover {
+  background-color: #8ef9f3;
+  box-shadow: 1px 1px 20px #8ef9f3;
+  cursor: pointer;
+}
