@@ -6,10 +6,9 @@ import "./App.css";
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="App">
         <h1 className="text">The Dice Game</h1>
         <h2 className="text">Give em a roll to test your luck!!!</h2>
-        <Die face="five" />
         <RollDice />
       </div>
     );
