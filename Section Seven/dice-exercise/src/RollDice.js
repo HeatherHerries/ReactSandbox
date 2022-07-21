@@ -4,7 +4,7 @@ class RollDice extends Component {
   render() {
     return (
       <div>
-        <h1>Roll Dice Component</h1>
+        <button className="roll">Roll Dice</button>
       </div>
     );
   }

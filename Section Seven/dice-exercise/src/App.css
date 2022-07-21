@@ -1,5 +1,21 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: "Cairo", sans-serif;
+  text-align: center;
+  background-color: #171738;
+}
+
+.text {
+  color: #db5461;
+}
+
+.roll {
+  font-size: 25px;
+  margin: 15px;
+  padding: 0.5px 25px;
+  background-color: #abeb0a;
+  color: #db5461;
+  border: none;
+  box-shadow: 1px 1px 20px #abeb0a;
 }
