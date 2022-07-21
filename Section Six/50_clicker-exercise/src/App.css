@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #ffff99;
+}
+
+.Clicker {
+  text-align: center;
+}
+
+.title {
+  padding: 20px;
+  color: #331a00;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  background-color: #800000;
+  color: #ffffe6;
+  border: none;
+  box-shadow: 3px 3px 10px #331a00;
+}
