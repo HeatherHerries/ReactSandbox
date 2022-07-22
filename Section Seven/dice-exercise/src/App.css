@@ -9,13 +9,3 @@
 .text {
   color: #db5461;
 }
-
-.roll {
-  font-size: 25px;
-  margin: 15px;
-  padding: 0.5px 25px;
-  background-color: #abeb0a;
-  color: #db5461;
-  border: none;
-  box-shadow: 1px 1px 20px #abeb0a;
-}

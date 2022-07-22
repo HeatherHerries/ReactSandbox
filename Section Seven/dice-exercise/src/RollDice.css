@@ -11,6 +11,7 @@
 
 .roll-dice button {
   align-self: center;
+  width: 200px;
   font-size: 25px;
   margin: 15px;
   padding: 0.5px 25px;
